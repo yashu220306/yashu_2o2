@@ -1,6 +1,6 @@
 Hi👋, I'm Yashaswini Bhushan.
 I'm currently learning Python language.
-I'm currently pursuing my B—Tech in Computer Science and Engineering.
+I'm pursuing my B—Tech in Computer Science and Engineering at UVCE.
 
 <!---
 yashu220306/yashu220306 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
